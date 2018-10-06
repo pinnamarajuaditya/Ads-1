@@ -25,7 +25,7 @@ class threesumvalue {
 				 if(a[j]+a[st]+a[lt]==sum)
 				 {
 					 count++;
-					
+					 System.out.println(count);
 					 break;
 				 }
 				 if(a[j]+a[st]+a[lt]<sum)
@@ -40,7 +40,6 @@ class threesumvalue {
 			 }
 			 
 		 }
-		  System.out.println(count);
 		
 			
 	 }
