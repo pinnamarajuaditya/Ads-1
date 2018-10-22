@@ -1,0 +1,39 @@
+Learning by doing-1
+ACTIVITY 4
+Show how selection sort sorts the array  E A  S Y Q U E S T I O N
+STEP 1: A E S Y Q U E S T I O N 
+STEP 2: A E E Y Q U S S T I O N
+STEP 3: A E E I Q U S S T Y O N
+STEP 4: A E E I N U S S T Y O Q
+STEP 5: A E E I N O S S T Y U Q
+STEP 6: A E E I N O Q S T Y U S
+STEP 7: A E E I N O Q S S Y U T
+STEP 8: A E E I N O Q S S T U Y
+
+Learning by doing-2
+Show, how Insertion sort sorts the array E A S Y Q U E S T I O N.
+step 1:AESYQUESTION
+step 2:AESQYUESTION
+step 3:AEQSYUESTION
+.
+.
+.
+.
+.
+final step:AEEINOQSSTUY
+
+Activity 6
+1.length
+2.i
+3.j
+4.min
+
+Learning by doing-3
+
+Which method runs faster for an array with all keys identical, basic selection sort or basic insertion sort?
+ans= Insertion sort
+
+Learning by doing-4
+
+Which method runs faster for an array in reverse order, basic selection sort or basic insertion sort?
+ans= Insertion sort
