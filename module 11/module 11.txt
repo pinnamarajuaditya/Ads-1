@@ -1,0 +1,14 @@
+Learning by doing-1
+Give traces by showing how the keys E A S Y Q U E S T I O N are sorted with quick sort.
+A E S Y Q U E S T I O N 
+A E S Y Q U E S T I O N
+A E S N Q U E S T I O Y
+A E S N Q O E S T I U Y
+A E S N Q O E S I T U Y
+A E N Q O E S I S T U Y
+A E N Q O E S I S T U Y
+A E N I O E S Q S T U Y
+A E N I O E S Q S T U Y
+A E N I E O S Q S T U Y
+A E E I N O S Q S T U Y
+A E E I N O Q S T U Y
