@@ -1,0 +1,9 @@
+Module 12 Priority Queues-1
+
+Learning by doing-1
+Suppose that the sequence P R I O * R * * I * T * Y * * * Q U E * * * U * E (where a letter means insert and an asterisk means remove the maximum) is applied to an initially empty priority queue. Give the sequence of values returned by remove the maximum operations.
+
+ans: E
+Learining by doing-2
+Is an array that is sorted in Ascending order a min-oriented heap? Why?
+Ans: Yes , because min oriented heap gives the smallest number.
